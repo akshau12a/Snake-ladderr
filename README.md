@@ -16,8 +16,7 @@ A remake of the classic Snakes and Ladders Board game.
 
 ## Contributors
 
-- [Souparno Paul](https://www.github.com/Soupaul)
-- [Nirvik Agarwal](https://www.github.com/nirvikagarwal)
+- [Akshay](https://www.github.com/akshau12a)
 
 ## Resources used
 
