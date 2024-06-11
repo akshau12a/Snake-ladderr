@@ -14,7 +14,7 @@ A remake of the classic Snakes and Ladders Board game.
 - Node.js
 - socket.io
 
-## Contributors
+## Contributor
 
 - [Akshay](https://www.github.com/akshau12a)
 
