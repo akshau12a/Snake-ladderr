@@ -24,5 +24,4 @@ A remake of the classic Snakes and Ladders Board game.
 - Player pin images from [Khurshid Alam Bhuyan](https://opengameart.org/users/khurs10101)
 
 ## Deploy link
-(https://snake-ladderr-9o3y3sd0b-akshau12as-projects.vercel.app/)
-
+https://snake-ladderr-9o3y3sd0b-akshau12as-projects.vercel.app/
